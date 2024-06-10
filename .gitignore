@@ -1,0 +1,21 @@
+# Dependency directories
+node_modules
+dist
+
+# Output of 'npm pack'
+*.tgz
+bin
+
+build
+
+# Logs
+logs
+
+# Optional npm cache directory
+.npm
+
+# Coverage directory 
+coverage
+
+.env
+.DS_Store
